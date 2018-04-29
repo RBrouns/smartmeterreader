@@ -3,4 +3,4 @@ C++ application for reading out Smart Meter (Kaifa) and profiling/learning what 
 
 Includes real-time graph and history
 
-![alt text](https://imgur.com/pI4M7Hx)
+![alt text](https://i.imgur.com/pI4M7Hx.png)
